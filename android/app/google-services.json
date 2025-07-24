@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761689295147",
+    "project_id": "productlist-c6025",
+    "storage_bucket": "productlist-c6025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761689295147:android:c72cea02873effb9c21d6e",
+        "android_client_info": {
+          "package_name": "com.wasil.product_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-pnwzN9rX5Va3ej6jhz3kf1JDawLJHTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
